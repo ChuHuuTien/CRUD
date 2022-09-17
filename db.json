@@ -1,0 +1,39 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "name": "Kiến thức cơ bản, tổng quan cho người mới bắt đầu",
+      "description": "Kiến thức cơ bản, tổng quan cho người mới bắt đầu, không phân biệt người theo front-end, back-end hay devops"
+    },
+    {
+      "name": "Xây Dựng Website với ReactJS",
+      "description": "Xây Dựng Website với ReactJS, NodeJS",
+      "id": 2
+    },
+    {
+      "name": "Làm việc với Terminal & Ubuntu",
+      "description": "Sở hữu một Terminal hiện đại, mạnh mẽ trong tùy biến và học cách làm việc với Ubuntu là một bước quan trọng trên con đường trở thành một Web Developer.",
+      "id": 3
+    },
+    {
+      "name": "Chu Huu Tien",
+      "description": "Description",
+      "id": 4
+    },
+    {
+      "name": "123112414",
+      "description": "123124142",
+      "id": 5
+    },
+    {
+      "name": "123",
+      "description": "123",
+      "id": 6
+    },
+    {
+      "name": "111",
+      "description": "11",
+      "id": 7
+    }
+  ]
+}

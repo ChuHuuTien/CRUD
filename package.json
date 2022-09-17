@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "i": "^0.3.7",
+    "json-server": "^0.17.0"
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "json-server --watch db.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tien2092001/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tien2092001/test/issues"
+  },
+  "homepage": "https://github.com/tien2092001/test#readme",
+  "description": ""
+}
